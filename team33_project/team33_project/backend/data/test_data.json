@@ -1,0 +1,98 @@
+{
+    "categories" : [
+        {
+            "items" : [
+                {
+                    "name" : "CP F/RANGE EGGS",
+                    "price" : 0.95,
+                    "category" : "Food & Drink"
+                },
+                {
+                    "name" : "HULA HOOPS ORIGI",
+                    "price" : 2.15,
+                    "category" : "Food & Drink"
+                },
+                {
+                    "name" : "CP CURLY KALE",
+                    "price" : 0.79,
+                    "category" : "Food & Drink"
+                },
+                {
+                    "name" : "EUROMILLIONS",
+                    "price" : 2.50,
+                    "category" : "Gambling"
+                },
+                {
+                    "name" : "OASIS SMMR FRTS",
+                    "price" : 0.79,
+                    "category" : "Food & Drink"
+                },
+                {
+                    "name" : "SHRWD ROGAN JOSH",
+                    "price" : 1.99,
+                    "category" : "Food & Drink"
+                },
+                {
+                    "name" : "RWNTR FRT PASTL",
+                    "price" : 0.89,
+                    "category" : "Confectionaries / Cakes / Biscuits"
+                },
+                {
+                    "name" : "CP BRT GARDEN PE",
+                    "price" : 1.00,
+                    "category" : "Food & Drink"
+                },
+                {
+                    "name" : "EGGS 15 PACK MEDIUM",
+                    "price" : 1.25,
+                    "category" : "Food & Drink"
+                },
+                {
+                    "name" : "SMOKED MACKEREL FILLET",
+                    "price" : 1.49,
+                    "category" : "Food & Drink"
+                },
+                {
+                    "name" : "ITALIAN FILLED PASTA",
+                    "price" : 0.65,
+                    "category" : "Food & Drink"
+                },
+                {
+                    "name" : "RED WINE",
+                    "price" : 4.05,
+                    "category" : "Alcohol & Smoking"
+                },
+                {
+                    "name" : "SAUVIGNON BLNC",
+                    "price" : 5.00,
+                    "category" : "Alcohol & Smoking"
+                },
+                {
+                    "name" : "SWEET EASY PEELERS",
+                    "price" : 1.19,
+                    "category" : "Food & Drink"
+                },
+                {
+                    "name" : "CARLING 8 PACK",
+                    "price" : 10.50,
+                    "category" : "Alcohol & Smoking"
+                },
+                {
+                    "name" : "JS DIFFUSER STICKS",
+                    "price" : 1.5,
+                    "category" : "Household"
+                },
+                {
+                    "name" : "JS ANTIBC WIPES X80",
+                    "price" : 1.50,
+                    "category" : "Cleaning"
+                }, 
+                {
+                    "name" : "CP M/SD BLOOMER",
+                    "price" : 0.32,
+                    "category" : "Food & Drink"
+                }
+            ]
+        }
+    ]
+}

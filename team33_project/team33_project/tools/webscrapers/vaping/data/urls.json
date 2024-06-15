@@ -1,0 +1,24 @@
+{
+	"urls" : [
+	{
+		"url" : "https://www.alectrofag.co.uk/collections/disposable-kits?page=",
+		"page" : 41,
+		"label" : "Alcohol & Smoking"
+	},
+	{
+		"url" : "https://www.alectrofag.co.uk/collections/vape-kits?page=",
+		"page" : 12, 
+		"label" : "Alcohol & Smoking"
+	},
+	{
+		"url" : "https://www.alectrofag.co.uk/collections/vape-coils?page=",
+		"page" : 12,
+		"label" : "Alcohol & Smoking"
+	},
+	{
+		"url" : "https://www.alectrofag.co.uk/collections/vape-pods?page=",
+		"page" : 10,
+		"label" : "Alcohol & Smoking"
+	}
+	]
+}

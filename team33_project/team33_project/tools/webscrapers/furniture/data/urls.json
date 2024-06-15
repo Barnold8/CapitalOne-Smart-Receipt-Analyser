@@ -1,0 +1,19 @@
+{
+	"urls" : [
+	{
+		"url" : "https://furnitureinstore.co.uk/sofas-c1?page=",
+		"page" : 10,
+		"label" : "Furniture"
+	},
+	{
+		"url" : "https://furnitureinstore.co.uk/bedroom-c3?page=",
+		"page" : 36,
+		"label" : "Furniture"
+	},
+	{
+		"url" : "https://furnitureinstore.co.uk/dining-c2?page=",
+		"page" : 35,
+		"label" : "Furniture"
+	}
+	]
+}

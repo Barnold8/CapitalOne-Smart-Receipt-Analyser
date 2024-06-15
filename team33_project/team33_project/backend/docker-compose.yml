@@ -1,0 +1,35 @@
+version: '3.9'
+
+services:
+  api:
+    build: api
+    restart: always
+    expose:
+      - 8080
+    depends_on:
+      - db
+    volumes:
+          - ./ocr/ocr.py:/app/ocr.py
+          - ./categorisation/categorisation.py:/app/categorisation.py
+          - ./categorisation/master.csv:/app/master.csv
+          - ./categorisation/parse.py:/app/parse.py
+
+  db:
+    image: mariadb:10
+    environment:
+      MYSQL_DATABASE: 'USER_DB'
+      MYSQL_ROOT_PASSWORD: 'password'
+    ports:
+      - 3306:3306
+    volumes:
+        - ./db/init.sql:/docker-entrypoint-initdb.d/A_init.sql
+        - ./db/populate.sql:/docker-entrypoint-initdb.d/B_populate.sql
+
+  proxy:
+    image: nginx:1.23
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - api
+    ports:
+      - 80:80

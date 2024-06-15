@@ -1,0 +1,51 @@
+variables:
+  SSH_HOST: "deployment@188.166.76.134"
+  SSH_BASE: "ssh $SSH_HOST"
+
+before_script:
+  - 'command -v ssh-agent >/dev/null || ( apt-get update -y && apt-get install openssh-client -y )'
+  - eval $(ssh-agent -s)
+  - chmod 400 "$SSH_DEV_DEPLOY_PRIVATE"
+  - ssh-add "$SSH_DEV_DEPLOY_PRIVATE"
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+
+  - ssh-keyscan 188.166.76.134 >> ~/.ssh/known_hosts
+  - chmod 644 ~/.ssh/known_hosts
+
+lint:
+  image: python:3.11
+  allow_failure: true
+  script:
+    - pip3 install pylint
+    - python3 -m pylint ./backend --disable=E0401 || true
+    - python3 -m pylint ./tools --disable=E0401   || true
+
+
+categorsation-tests:
+  image: python:3.11
+  allow_failure: true
+  script:
+    - cd ./backend/categorisation
+    - pip3 install -r requirements.txt
+    - python3 categorisation_tests.py
+
+parse-tests:
+  image: python:3.11
+  allow_failure: true
+  script:
+    - cd ./backend/categorisation
+    - pip3 install -r requirements.txt
+    - python3 parse_tests.py
+
+deploy:
+  script:
+    - cd backend
+    - $SSH_BASE 'rm -rf ~/source'
+    - $SSH_BASE 'mkdir ~/source'
+    - scp -r $CI_PROJECT_DIR $SSH_HOST:~/source
+    - scp $GCP_KEY $SSH_HOST:~/source/team33_project/backend/api/creds.json
+    - $SSH_BASE 'cd ~/source/team33_project/backend/api && docker compose up -d --build'
+  only:
+    - /^backend\/ci/
+    - /^dev$/

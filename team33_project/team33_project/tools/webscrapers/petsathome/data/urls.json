@@ -1,0 +1,270 @@
+{    
+ 
+    "urls" : [
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-treats?Page=",
+        "page" : 24,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/flea-tick-and-wormers?Page=",
+        "page" : 5,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-beds?Page=",
+        "page" : 11,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-crates-and-travel?Page=",
+        "page" : 9,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-collars-harnesses-leads-and-tags?Page=",
+        "page" : 28,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-toys?Page=",
+        "page" : 19,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-calming-and-anxiety-solutions?Page=",
+        "page" : 2,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-dental-care?Page=",
+        "page" : 8,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-eye-and-ear-care?Page=",
+        "page" : 2,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-first-aid?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-joint-and-mobility?Page=",
+        "page" : 3,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-pill-giving-and-syringes?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-skin-and-coat-care?Page=",
+        "page" : 2,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-test-kits?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-vet-collars-and-recovery?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/puppy-healthcare?Page=",
+        "page" : 6,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-fleas?Page=",
+        "page" : 4,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/dog-ticks?Page=",
+        "page" : 2,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/flea-tick-and-wormers/dog-wormers?Page=",
+        "page" : 2,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-healthcare/puppy-flea-tick-and-wormers?Page=",
+        "page" : 4,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-bowls-and-feeding-accessories?Page=",
+        "page" : 9,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/dog/dog-kennels-and-containment?Page=",
+        "page" : 3,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-treats?Page=",
+        "page" : 6,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-flea-tick-and-worm-treatments?Page",
+        "page" : 4,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-healthcare/cat-calming-and-anxiety-solutions?Page=",
+        "page" : 2,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-healthcare/cat-dental-care?Page=",
+        "page" : 2,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-healthcare/cat-ear-and-eye-care-?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-healthcare/cat-hairball-solutions?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-healthcare/cat-joint-and-mobility?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-healthcare/cat-milk-and-weaning-substitutes?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-healthcare/cat-skin-and-coat-care?Page=",
+        "page" : 2,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-litter?Page=",
+        "page" : 3,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-litter-trays-and-accessories?Page=",
+        "page" : 4,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-flaps?Page=",
+        "page" : 2,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-scratching-and-furniture?Page=",
+        "page" : 3,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-beds?Page=",
+        "page" : 3,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-toys?Page=",
+        "page" : 6,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-collars-harnesses-leads-and-tags?Page=",
+        "page" : 5,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-carriers-and-travel?Page=",
+        "page" : 2,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-bowls-and-feeding-accessories?Page=",
+        "page" : 7,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/cat/cat-grooming-and-clean-up?Page=",
+        "page" : 5,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/small-pet/rabbit/rabbit-hutches-cages-and-runs?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/small-pet/rabbit/rabbit-hutch-covers-and-cage-stands?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/small-pet/rabbit/rabbit-treats?Page=",
+        "page" : 5,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/small-pet/rabbit/rabbit-bedding-hay-woodshavings-and-straw?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/small-pet/rabbit/rabbit-chews-toys-and-playthings?Page=",
+        "page" : 3,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/small-pet/rabbit/rabbit-bowls--bottles-and-accessories?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/small-pet/rabbit/rabbit-beds-and-hideaways?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/small-pet/rabbit/rabbit-travel-and-harnesses?Page=",
+        "page" : 1,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/small-pet/rabbit/rabbit-healthcare-and-grooming?Page=",
+        "page" : 3,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/fish/fish-tanks-and-cabinets?Page=",
+        "page" : 5,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/fish/fish-tank-filters--foam-and-carbon?Page=",
+        "page" : 4,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.petsathome.com/shop/en/pets/fish/fish-food",
+        "page" : 4,
+        "label" : "Pets"
+    }
+    ]
+}

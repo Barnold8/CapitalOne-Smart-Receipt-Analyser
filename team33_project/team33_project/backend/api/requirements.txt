@@ -1,0 +1,13 @@
+# Server
+flask
+flask-mysqldb
+flask-cors
+flask_monitoringdashboard
+
+# OCR
+Pillow
+google-cloud-vision
+nltk
+
+# Categorisation
+pandas

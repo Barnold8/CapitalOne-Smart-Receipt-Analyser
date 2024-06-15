@@ -1,0 +1,660 @@
+{    
+ 
+    "urls" : [
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-fruit/all?page=",
+        "page" : 9,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-vegetables/all?page=",
+        "page" : 10,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-salad-coleslaw-and-sandwich-fillers/all?page=",
+        "page" : 10,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-vegetarian-and-vegan/all?page=",
+        "page" : 9,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/juice-and-smoothies/all?page=",
+        "page" : 7,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/milk-butter-and-eggs/all?page=",
+        "page" : 15,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/cheese/all?page=",
+        "page" : 14,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/yoghurts/yoghurt-drinks-and-probiotic-drinks?include-children=true&page=",
+        "page" : 2,
+        "label" : "Food & Drink"
+    },  
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/yoghurts/natural-and-greek-yoghurt?include-children=true&apage=",
+        "page" : 3,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/yoghurts/indulgent-yoghurts-and-dairy-desserts?include-children=true&page=",
+        "page" : 2,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/yoghurts/flavoured-big-pot-yoghurt?include-children=true&page=",
+        "page" : 2,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/yoghurts/fat-free-and-low-fat-yoghurts?include-children=true&page=",
+        "page" : 3,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/yoghurts/organic-yoghurt?include-children=true&page=",
+        "page" : 2,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/yoghurts/goats-milk-yoghurt-kefir-and-quark?include-children=true&page=",
+        "page" : 1,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/dairy-free-and-dairy-alternatives/dairy-free-butter-spreads-and-margarine-alternatives?include-children=true&page=",
+        "page" : 1,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/dairy-free-and-dairy-alternatives/dairy-free-cheese-alternatives?include-children=true&page=",
+        "page" : 2,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/dairy-free-and-dairy-alternatives/dairy-free-drinks?include-children=true&page=",
+        "page" : 5,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/dairy-free-and-dairy-alternatives/dairy-free-mayonnaise-alternatives?include-children=true&page=",
+        "page" : 1,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/dairy-free-and-dairy-alternatives/dairy-free-cream-and-custard-alternatives?include-children=true&page=",
+        "page" : 1,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/dairy-free-and-dairy-alternatives/dairy-free-desserts?include-children=true&page=",
+        "page" : 1,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-meat-and-poultry/all?page=",
+        "page" : 16,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/finest-fresh-food/finest-cooked-meats-antipasti-and-deli?page=",
+        "page" : 2,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/finest-fresh-food/finest-dairy-and-eggs?page=",
+        "page" : 2,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/finest-fresh-food/finest-desserts?page=",
+        "page" : 1,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/finest-fresh-food/finest-fruit-nuts-and-vegetables?page=",
+        "page" : 2,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/finest-fresh-food/finest-meat-poultry-and-seafood?page=",
+        "page" : 4,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/finest-fresh-food/finest-pizza-pasta-and-sauces?include-children=true&page=",
+        "page" : 1,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/finest-fresh-food/finest-ready-meals-and-prepared-foods?include-children=true&page=",
+        "page" : 2,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-fish-and-seafood/all?include-children=true&page=",
+        "page" : 4,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/cooked-meats-antipasti-and-dips/all?page=",
+        "page" : 14,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/pies-pasties-quiches-and-snacking/all?include-children=true&page=",
+        "page" : 8,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/fresh-pizza-pasta-and-garlic-bread/all?include-children=true&page=",
+        "page" : 6,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/ready-meals/all?include-children=true&page=",
+        "page" : 15,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-soup-sandwiches-and-salad-pots/all?include-children=true&page=",
+        "page" : 12,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/counters/all?include-children=true&page=",
+        "page" : 4,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/fresh-food/chilled-desserts/all?include-children=true&page=",
+        "page" : 9,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/bread-and-rolls/all?include-children=true&page=",
+        "page" : 9,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/wraps-pittas-naan-and-thins/all?include-children=true&page=",
+        "page" : 3,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/crumpets-muffins-and-pancakes/crumpets?include-children=true&page=",
+        "page" : 1,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/crumpets-muffins-and-pancakes/muffins?page=",
+        "page" : 1,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/crumpets-muffins-and-pancakes/potato-cakes?include-children=true&page=",
+        "page" : 1,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/crumpets-muffins-and-pancakes/pancakes?include-children=true&page=",
+        "page" : 1,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/crumpets-muffins-and-pancakes/waffles?include-children=true&page=",
+        "page" : 1,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/croissants-brioche-and-pastries/all?include-children=true&page=",
+        "page" : 2,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/teacakes-fruit-loaves-and-scones/all?include-children=true&page=",
+        "page" : 1,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/doughnuts-cookies-and-muffins/all?include-children=true&page=",
+        "page" : 2,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/bakery/cakes-cake-bars-slices-and-pies/all?include-children=true&page=",
+        "page" : 12,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/frozen-food/frozen-vegetables-and-herbs/all?include-children=true&page=",
+        "page" : 3,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/frozen-food/frozen-chips-onion-rings-potatoes-and-rice/all?page=",
+        "page" : 4,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/frozen-food/frozen-meat-and-poultry/all?include-children=true&page=",
+        "page" : 5,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/frozen-food/frozen-fish-and-seafood/all?include-children=true&page=",
+        "page" : 5,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/frozen-food/frozen-pies/all?include-children=true&page=",
+        "page" : 2,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/frozen-food/frozen-pizza-and-garlic-bread/all?include-children=true&page=",
+        "page" : 3,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/frozen-food/frozen-ready-meals/all?include-children=true&page=",
+        "page" : 4,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/frozen-food/frozen-yorkshire-puddings-and-stuffing/all?include-children=true&page=",
+        "page" : 1,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/frozen-food/frozen-breakfast-fruit-and-pastry/frozen-fruit?include-children=true&page=",
+        "page" : 1,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/frozen-food/ice-cream-ice-lollies-and-frozen-desserts/all?include-children=true&page=",
+        "page" : 11,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/dried-fruit-nuts-nutrient-powders-and-seeds/all?page=",
+        "page" : 15,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/cereals/all?include-children=true&page=",
+        "page" : 15,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/chocolate-sweets-mints-and-chewing-gum/all?include-children=true&page=",
+        "page" : 23,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/crisps-snacks-nuts-and-popcorn/all?include-children=true&page=",
+        "page" : 17,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/biscuits-and-cereal-bars/all?include-children=true&page=",
+        "page" : 15,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/crackers-and-crispbreads/all?include-children=true&page=",
+        "page" : 5,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/tins-cans-and-packets/all?include-children=true&page=",
+        "page" : 22,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/noodle-pots-and-instant-snack-meals/all?include-children=true&page=",
+        "page" : 7,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/cooking-ingredients/all?include-children=true&page=",
+        "page" : 25,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/cooking-sauces-meal-kits-and-sides/all?include-children=true&page=",
+        "page" : 21,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/dried-pasta-rice-noodles-and-cous-cous/all?include-children=true&page=",
+        "page" : 9,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/table-sauces-olives-pickles-and-chutney/all?include-children=true&page=",
+        "page" : 18,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/jams-sweet-and-savoury-spreads/peanut-and-nut-butter?include-children=true&page=",
+        "page" : 2,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/jams-sweet-and-savoury-spreads/chocolate-and-sweet-spreads?include-children=true&page=",
+        "page" : 1,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/jams-sweet-and-savoury-spreads/yeast-extracts-and-savoury-spreads?include-children=true&page=",
+        "page" : 1,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/jams-sweet-and-savoury-spreads/honey-and-syrups?include-children=true&page=",
+        "page" : 2,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/jams-sweet-and-savoury-spreads/jams?include-children=true&page=",
+        "page" : 2,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/jams-sweet-and-savoury-spreads/marmalade-and-curds?include-children=true&page=",
+        "page" : 1,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/desserts/all?include-children=true&page=",
+        "page" : 7,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/food-cupboard/home-baking-and-sugar/all?include-children=true&page=",
+        "page" : 20,
+        "label" : "Confectionaries / Cakes / Biscuits"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/juices-and-smoothies/all?include-children=true&page=",
+        "page" : 9,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/fizzy-and-soft-drinks/all?include-children=true&page=",
+        "page" : 9,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/water/all?include-children=true&page=",
+        "page" : 5,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/squash-and-cordial/all?include-children=true&page=",
+        "page" : 4,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/adult-soft-drinks-and-mixers/all?include-children=true&page=",
+        "page" : 6,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/kids-drinks/all?include-children=true&page=",
+        "page" : 4,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/sports-energy-and-wellness-drinks/all?include-children=true&page=",
+        "page" : 7,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/milkshake/all?include-children=true&page=",
+        "page" : 3,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/on-the-go-drinks/all?page=",
+        "page" : 7,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/tea/all?include-children=true&page=",
+        "page" : 7,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/coffee/all?include-children=true&page=",
+        "page" : 11,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/hot-chocolate-and-malted-drinks/all?page=",
+        "page" : 2,
+        "label" : "Food & Drink"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/beer-and-cider/all?include-children=true&page=",
+        "page" : 19,
+        "label" : "Alcohol & Smoking"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/wine/all?include-children=true&page=",
+        "page" : 30,
+        "label" : "Alcohol & Smoking"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/spirits/all?include-children=true&page=",
+        "page" : 22,
+        "label" : "Alcohol & Smoking"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/drinks/alcohol-gift-sets/all?include-children=true&page=",
+        "page" : 1,
+        "label" : "Alcohol & Smoking"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/baby-and-toddler/all?include-children=true&page=",
+        "page" : 36,
+        "label" : "Baby"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/health-and-beauty/all?include-children=true&page=",
+        "page" : 168,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/pets/all?include-children=true&page=",
+        "page" : 29,
+        "label" : "Pets"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/laundry/all?include-children=true&page=",
+        "page" : 9,
+        "label" : "Cleaning"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/kitchen-roll/all?include-children=true&page=",
+        "page" : 1,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/toilet-roll/all?include-children=true&page=",
+        "page" : 2,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/facial-tissue-and-hand-wipes/all?include-children=true&page=",
+        "page" : 1,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/cleaning/all?include-children=true&page=",
+        "page" : 12,
+        "label" : "Cleaning"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/kitchen-cleaners/all?include-children=true&page=",
+        "page" : 6,
+        "label" : "Cleaning"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/bathroom-cleaners-and-toilet-care/all?include-children=true&page=",
+        "page" : 5,
+        "label" : "Cleaning"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/dishwashing/all?include-children=true&page=",
+        "page" : 4,
+        "label" : "Cleaning"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/air-fresheners-and-home-fragrance/all?include-children=true&page=",
+        "page" : 8,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/household-essentials/all?include-children=true&page=",
+        "page" : 9,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/food-storage/all?include-children=true&page=",
+        "page" : 4,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/lightbulbs/all?include-children=true&page=",
+        "page" : 1,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/household/brushes-mops-and-buckets/all?include-children=true&page=",
+        "page" : 1,
+        "label" : "Cleaning"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/toys-and-games/all?include-children=true&page=",
+        "page" : 18,
+        "label" : "Entertainment"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/electrical/all?include-children=true&page=",
+        "page" : 21,
+        "label" : "Technology"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/stationery-arts-and-crafts/stamps-envelopes-and-parcel-packing?include-children=true&page=",
+        "page" : 2,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/stationery-arts-and-crafts/pens-and-pencils?include-children=true&page=",
+        "page" : 6,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/stationery-arts-and-crafts/markers-and-highlighters?include-children=true&page=",
+        "page" : 2,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/stationery-arts-and-crafts/notebooks-and-diaries?include-children=true&page=",
+        "page" : 4,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/stationery-arts-and-crafts/filing-and-storage?include-children=true&page=",
+        "page" : 3,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/stationery-arts-and-crafts/printer-paper?include-children=true&page=",
+        "page" : 1,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/stationery-arts-and-crafts/printer-ink?include-children=true&page=",
+        "page" : 2,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/stationery-arts-and-crafts/home-office-and-office-essentials?include-children=true&page=",
+        "page" : 5,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/stationery-arts-and-crafts/glue-tape-tack-hooks-and-strips?include-children=true&page=",
+        "page" : 2,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/stationery-arts-and-crafts/colouring?include-children=true&page=",
+        "page" : 4,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/national-lottery/all?include-children=true&page=",
+        "page" : 1,
+        "label" : "Gambling"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/gaming-and-books/all?include-children=true&page=",
+        "page" : 1,
+        "label" : "Entertainment"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/batteries/all?include-children=true&page=",
+        "page" : 3,
+        "label" : "Technology"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/cooking-and-dining/all?include-children=true&page=",
+        "page" : 24,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/bedding/all?include-children=true&page=",
+        "page" : 7,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/bathroom-accessories-and-towels/all?include-children=true&page=",
+        "page" : 6,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/home-accessories/all?include-children=true&page=",
+        "page" : 8,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/diy-and-car-care/all?include-children=true&page=",
+        "page" : 13,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/flowers/all?include-children=true&page=",
+        "page" : 1,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.tesco.com/groceries/en-GB/shop/home-and-ents/tobacco-and-alternatives/all?include-children=true&page=",
+        "page" : 14,
+        "label" : "Alcohol & Smoking"
+    }
+    ]
+}

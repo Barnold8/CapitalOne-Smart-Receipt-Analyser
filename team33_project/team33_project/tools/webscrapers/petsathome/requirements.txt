@@ -1,0 +1,4 @@
+time
+scraper
+requests
+beautifulsoup4

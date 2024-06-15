@@ -1,0 +1,365 @@
+{    
+ 
+    "urls" : [
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/jumpers-and-cardigans?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/coats-and-jackets?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/hoodies-and-sweatshirts?page=",
+        "page" : 4,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/joggers?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/tops-and-t-shirts?page=",
+        "page" : 9,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/trousers?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/jeans?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/suits-and-blazers?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/shorts?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/swimwear-and-beachwear?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/underwear?page=",
+        "page" : 4,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/socks?page=",
+        "page" : 4,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/nightwear?page=",
+        "page" : 3,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/clothing/loungewear?page=",
+        "page" : 3,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/shoes/boots?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/shoes/trainers?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/shoes/loafers-and-brogues?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/shoes/slippers?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/shoes/sandals-and-sliders?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/accessories/hats-gloves-and-scarves?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/accessories/bags-and-wallets?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/accessories/belts?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/men/accessories/sunglasses?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/jumpers-and-cardigans?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/coats-and-jackets?page=",
+        "page" : 3,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/hoodies-and-sweatshirts?page=",
+        "page" : 3,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/joggers?page=",
+        "page" : 3,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/dresses?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/blazers?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/trousers-and-leggings?page=",
+        "page" : 5,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/jeans?page=",
+        "page" : 3,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/tops-and-t-shirts?page=",
+        "page" : 11,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/shirts-and-blouses?page=",
+        "page" : 3,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/loungewear?page=",
+        "page" : 3,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/skirts?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/shorts?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/jumpsuits-and-playsuits?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/clothing/swimwear-and-beachwear?page=",
+        "page" : 4,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/nightwear-and-lingerie/nightwear-ranges?page=",
+        "page" : 14,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/nightwear-and-lingerie/lingerie-ranges?page=",
+        "page" : 21,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/nightwear-and-lingerie/socks-and-tights?page=",
+        "page" : 9,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/shoes/boots?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/shoes/heels?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/shoes/trainers?page=",
+        "page" : 4,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/shoes/flats?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/shoes/mules?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/shoes/slippers?page=",
+        "page" : 3,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/shoes/sandals?page=",
+        "page" : 1,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/shoes/flip-flops-and-sliders?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/accessories/hats-gloves-and-scarves?page=",
+        "page" : 4,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/accessories/bags-and-purses?page=",
+        "page" : 10,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/accessories/belts?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/accessories/jewellery?page=",
+        "page" : 7,
+        "label" : "Jewellery"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/accessories/reading-glasses?page=",
+        "page" : 1,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/women/accessories/sunglasses?page=",
+        "page" : 2,
+        "label" : "Clothing"
+    },    
+    {
+        "url" : "https://www.primark.com/en-gb/c/home/home-furnishings/soft-furnishings-and-bedding?page=",
+        "page" : 24,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/home/home-furnishings/cooking-and-dining?page=",
+        "page" : 6,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/home/home-furnishings/storage-and-accessories?page=",
+        "page" : 25,
+        "label" : "Household"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/home/electricals/tech-and-phone-accessories?page=",
+        "page" : 7,
+        "label" : "Technology"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/make-up/face?page=",
+        "page" : 6,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/make-up/eyes?page=",
+        "page" : 6,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/make-up/lips?page=",
+        "page" : 5,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/make-up/nails?page=",
+        "page" : 5,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/make-up/make-up-brushes-and-blenders?page=",
+        "page" : 4,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/make-up/make-up-bags-and-accessories?page=",
+        "page" : 5,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/skincare/face?page=",
+        "page" : 7,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/skincare/body?page=",
+        "page" : 4,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/skincare/suncare?page=",
+        "page" : 1,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/bath-and-body/shower-and-bath?page=",
+        "page" : 6,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/bath-and-body/perfumes-and-body-mists?page=",
+        "page" : 2,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/hair/haircare?page=",
+        "page" : 1,
+        "label" : "Health & Beauty"
+    },
+    {
+        "url" : "https://www.primark.com/en-gb/c/beauty/hair/hair-tools?page=",
+        "page" : 3,
+        "label" : "Health & Beauty"
+    }
+    ]
+}
